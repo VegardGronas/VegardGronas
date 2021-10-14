@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VegardGronas
+- 👀 I’m interested in webdevelopment
+- 🌱 I’m currently learning Javascript
+- 📫 You can reach me on Email: vegagro@gmail.com
