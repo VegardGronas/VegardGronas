@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VegardGronas
-- 👀 I’m interested in game production and web development
-- 🌱 I’m currently learning Javascript, html, css and C#
+- 👀 I'm into game development or just messing around creating stuff.
+- 🌱 Languages: Most experienced in C#, second js/node. C++ and py.
 - 💞️ I’m looking to collaborate on most projects
-- 📫 How to reach me vegagro@gmail.com | https://vegardg.net/
+- 📫 How to reach me vegagro@gmail.com
 
 <!---
 VegardGronas/VegardGronas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
